@@ -79,7 +79,7 @@
          "nonAcademicStaff":600
       },
       {
-         "name":"SOAS",
+         "name":"E + D",
          "over":7,
          "women":1,
          "students":6070,
@@ -93,14 +93,14 @@
          "nonAcademicStaff":450
       },
       {
-         "name":"St Mary's",
+         "name":"CELA",
          "over":3,
          "women":1,
          "students":5535,
          "nonAcademicStaff":410
       },
       {
-         "name":"UCL",
+         "name":"T&R",
          "over":196,
          "women":44,
          "students":38313,
