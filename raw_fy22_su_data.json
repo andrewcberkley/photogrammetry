@@ -1,157 +1,73 @@
 {
    "number_over_140k":[
       {
-         "name":"Birkbeck",
+         "name":"APAC",
          "over":2,
          "women":0,
          "students":12245,
          "nonAcademicStaff":610
       },
       {
-         "name":"Brunel",
-         "over":9,
-         "women":1,
+         "name":"Australia",
+         "over":11,
+         "women":2,
          "students":14165,
          "nonAcademicStaff":1175
       },
       {
-         "name":"City",
-         "over":31,
-         "women":5,
+         "name":"France",
+         "over":3,
+         "women":0,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"Greater China",
+         "over":2,
+         "women":2,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"India",
+         "over":6,
+         "women":2,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"LATAM",
+         "over":4,
+         "women":3,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"MEA",
+         "over":3,
+         "women":3,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"United Kingdom",
+         "over":6,
+         "women":2,
+         "students":18995,
+         "nonAcademicStaff":1080
+      },
+      {
+         "name":"United States",
+         "over":18,
+         "women":8,
          "comment":"<",
          "students":18995,
          "nonAcademicStaff":1080
       },
       {
-         "name":"Goldsmiths",
-         "over":1,
-         "women":0,
-         "students":8525,
-         "nonAcademicStaff":645
-      },
-      {
-         "name":"Imperial",
-         "over":150,
-         "women":21,
-         "students":17035,
-         "nonAcademicStaff":3870
-      },
-      {
-         "name":"King's",
-         "over":92,
-         "women":16,
-         "students":28900,
-         "nonAcademicStaff":2880
-      },
-      {
-         "name":"LBS",
-         "over":113,
-         "women":31,
-         "students":2075,
-         "nonAcademicStaff":660
-      },
-      {
-         "name":"Central",
-         "over":1,
-         "women":0,
-         "students":1045,
-         "nonAcademicStaff":85
-      },
-      {
-         "name":"RCA",
-         "over":1,
-         "women":0,
-         "students":1610,
-         "nonAcademicStaff":230
-      },
-      {
-         "name":"RHUL",
-         "over":5,
-         "women":"-",
-         "students":"9985",
-         "nonAcademicStaff":905
-      },
-      {
-         "name":"RVC",
-         "over":7,
-         "women":1,
-         "students":2290,
-         "nonAcademicStaff":600
-      },
-      {
-         "name":"E + D",
-         "over":7,
-         "women":1,
-         "students":6070,
-         "nonAcademicStaff":435
-      },
-      {
-         "name":"St George's",
-         "over":19,
-         "women":6,
-         "students":5925,
-         "nonAcademicStaff":450
-      },
-      {
-         "name":"CELA",
-         "over":3,
-         "women":1,
-         "students":5535,
-         "nonAcademicStaff":410
-      },
-      {
-         "name":"T&R",
-         "over":196,
-         "women":44,
-         "students":38313,
-         "nonAcademicStaff":4995
-      },
-      {
-         "name":"UEL",
-         "over":3,
-         "women":1,
-         "students":13630,
-         "nonAcademicStaff":830
-      },
-      {
-         "name":"Greenwich",
-         "over":1,
-         "women":0,
-         "students":20645,
-         "nonAcademicStaff":1000
-      },
-      {
-         "name":"Westminster",
-         "over":3,
-         "women":1,
-         "students":20195,
-         "nonAcademicStaff":1040
-      },
-      {
-         "name":"LSE",
-         "over":81,
-         "women":8,
-         "students":10440,
-         "nonAcademicStaff":1900
-      },
-      {
-         "name":"London Met",
-         "over":2,
-         "women":0,
-         "students":12865,
-         "nonAcademicStaff":660
-      },
-      {
-         "name":"LSBU",
-         "over":6,
-         "women":1,
-         "students":17605,
-         "nonAcademicStaff":660
-      },
-      {
-         "name":"LSHTM",
-         "over":3,
-         "women":1,
+         "name":"Western Europe",
+         "over":8,
+         "women":3,
          "students":1210,
          "nonAcademicStaff":545
       }
