@@ -53,6 +53,7 @@
          "name":"United Kingdom",
          "over":6,
          "women":2,
+         "comment":"<",
          "students":18995,
          "nonAcademicStaff":1080
       },
@@ -60,6 +61,7 @@
          "name":"United States",
          "over":18,
          "women":8,
+         "ongoing":2,
          "comment":"<",
          "students":18995,
          "nonAcademicStaff":1080
